@@ -11,7 +11,7 @@ You may use:
 - A website (HTML, CSS, JavaScript)
 
 ## Dataset:
-Provided CSV file with the following columns:
+Provided file (week 7 Learning Material) with the following columns:
 - Age
 - Gender
 - Year in School
@@ -33,7 +33,7 @@ Provided CSV file with the following columns:
 ## Requirements:
 
 1. **Data Preparation:**
-   - Import the dataset.
+   - In the dataset found on the drive week 7.
    - Clean the data (remove duplicates, handle missing values).
 
 2. **Dashboard Design:**
@@ -81,9 +81,6 @@ Provided CSV file with the following columns:
 - **Interactivity (20%)**: Functionality and user experience.
 - **Insights and Analysis (20%)**: Quality of insights.
 - **Presentation (10%)**: Visual appeal and professionalism.
-
-## Due Date:
-[Insert Due Date]
 
 ## Resources:
 - **Google Sheets:** [Google Sheets Help Center](https://support.google.com/docs/topic/9054605)
